@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 A simple script for checking pre-installed packages provided by Cachi2
 """
