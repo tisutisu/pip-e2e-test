@@ -1,2 +1,2 @@
-git+https://github.com/containerbuildsystem/dockerfile-parse.git@50b93d146f8a76f284ae2ccd3eed508ab8b9c213#egg=dockerfile-parse
+dockerfile-parse @ https://github.com/containerbuildsystem/dockerfile-parse/archive/refs/tags/2.0.0.tar.gz
 requests
